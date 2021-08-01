@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning Data Science, MERN stack 
 
-- 👯 I’m looking to collaborate on Projects realted to Tensorflow and Api creation using node js. 
+- 👯 I’m looking to collaborate on Projects related to Tensorflow and Api creation using node js. 
 
 - 💬 Talk to me about Competitive Programming, Python, JavaScript,  
 
