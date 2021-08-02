@@ -38,9 +38,14 @@
 <a href = 'https://www.linkedin.com/in/malay-acharya'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.github.com/malay-acharya'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
+*GITHUB STATS*
 
-
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+<p align="center">
+  <a href="https://github.com/MAlay-Acharya"><span>
+    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=Malay-Acharya&count_private=true&show_icons=true&theme=tokyonight&&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Malay-Acharya&hide=html,css,scss&layout=compact&langs_count=8&theme=tokyonight"/>
+    </span></a>
+</p>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Malay-Acharya)
 
