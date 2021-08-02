@@ -46,5 +46,4 @@
     </span></a>
 </p>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Malay-Acharya)
 
