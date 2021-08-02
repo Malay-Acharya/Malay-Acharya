@@ -38,8 +38,7 @@
 <a href = 'https://www.linkedin.com/in/malay-acharya'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.github.com/malay-acharya'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
-*GITHUB STATS*
-
+  <h2> Github Stats </h2>
 <p align="center">
   <a href="https://github.com/MAlay-Acharya"><span>
     <img height="48%" src="https://github-readme-stats.vercel.app/api?username=Malay-Acharya&count_private=true&show_icons=true&theme=tokyonight&&include_all_commits=true"/>
