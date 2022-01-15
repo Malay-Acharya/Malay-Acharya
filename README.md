@@ -16,9 +16,9 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🌱 I’m currently learning ML alongwith NodeJS.
+- 🌱 I’m currently working on ReactJS.
 
-- 👯 I’m looking to collaborate on Projects related to Tensorflow and Node. 
+- 👯 I’m looking to collaborate on Projects related to React and Node. 
 
 - 💬 Talk to me about Competitive Programming, Python, JavaScript. 
 
