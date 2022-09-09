@@ -29,4 +29,3 @@
 <p><img align="left" width="356" src="https://github-readme-stats.vercel.app/api/top-langs?username=malay-acharya&show_icons=true&locale=en&layout=compact" alt="malay-acharya" /></p>
 
 <p>&nbsp;<img align="right" width="430" src="https://github-readme-stats.vercel.app/api?username=malay-acharya&show_icons=true&locale=en" alt="malay-acharya" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malay-acharya&" alt="malay-acharya" /></p>
