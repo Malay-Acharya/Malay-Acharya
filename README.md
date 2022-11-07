@@ -28,4 +28,4 @@
 
 <p><img align="left" width="356" src="https://github-readme-stats.vercel.app/api/top-langs?username=malay-acharya&show_icons=true&locale=en&layout=compact" alt="malay-acharya" /></p>
 
-<p>&nbsp;<img align="right" width="430" src="https://github-readme-stats.vercel.app/api?username=malay-acharya&show_icons=true&locale=en" alt="malay-acharya" /></p>
+<p>&nbsp;<img align="right" width="430" src="https://github-readme-stats.vercel.app/api?username=malay-acharya&show_icons=true&locale=en&count_private=true" alt="malay-acharya" /></p>
