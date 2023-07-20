@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **acharyamalaywork@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1Gc9ese-QDV3-GCsbDxqOHi-eTNktVxy6/view)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/11X_TCsLa4rOKhzZzul6RGRqbUFW7552F/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
