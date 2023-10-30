@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/malayacharya6" target="blank"><img src="https://img.shields.io/twitter/follow/malayacharya6?logo=twitter&style=for-the-badge" alt="malayacharya6" /></a> </p>
 
-- 🔭 I’m currently working at [Listnr](https://www.listnr.tech/)
-
 - 💬 Ask me about **React, JavaScript, C++ & CP**
 
 - 📫 How to reach me **acharyamalaywork@gmail.com**
