@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/malayacharya6" target="blank"><img src="https://img.shields.io/twitter/follow/malayacharya6?logo=twitter&style=for-the-badge" alt="malayacharya6" /></a> </p>
 
-- 💬 SDE Intern <a href="https://www.mable.ai/" target="blank">Mable</a>
+- 💬 SDE <a href="https://www.mable.ai/" target="blank">Mable</a>
 - 💬 Ex SDE <a href="https://www.listnr.tech/" target="blank">Listnr</a>
 - 💬 Ex Frontend Dev <a href="https://webcube.in/" target="blank">Webcube</a>
 - 📫 How to reach me **acharyamalaywork@gmail.com**
